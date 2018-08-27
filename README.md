@@ -86,9 +86,9 @@ Style My Travel a full-stack React app where jetsetters can get some seriously f
 * Bookings and purchases all within the app so that the app serves as a one stop shop: no need to open a million tabs to book your travel, check the weather, and plan/purchase your outfits
 
 # Roles
-- Leslie: Lead Backend Developer– Full Stack Developer
-- Andrea: User Authentication, Back-end, Front-end UI
-- Laura: Lead Front-end
-- Mayra: Javascript, OpenWeatherMap API, Slide Deck
+- [Leslie Rose](https://github.com/rocksteadyrose): Lead Backend Developer– Full Stack Developer
+- [Andrea Zepeda](https://github.com/AXZ003): User Authentication, Back-end, Front-end UI
+- [Laura Wilson](https://github.com/laurawilsone): Lead Front-end
+- [Mayra Gamiddo](https://github.com/alctrs): Javascript, OpenWeatherMap API, Slide Deck
 
 
